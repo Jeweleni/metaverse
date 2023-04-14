@@ -86,3 +86,4 @@ export const socials = [
     url: '/facebook.svg',
   },
 ];
+
